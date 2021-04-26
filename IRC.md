@@ -70,7 +70,7 @@ Title Card Required
 >
 > - Gaussian 09W
 >
-> - IRCsplit（脚本）
+> - IRCsplit（脚本）(http://sobereva.com/soft/IRCsplit_1.0.3.rar)
 
 ### 1.创建单点文件模板
 
@@ -149,7 +149,7 @@ C:\Users\hhhff\Desktop\computational chemistry\final\SP
 
 > 软件：
 >
-> - Multiwfn
+> - Multiwfn(http://sobereva.com/multiwfn/)
 
 ### 1.  创建文本文件batchcolor.txt
 
