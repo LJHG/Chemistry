@@ -1,3 +1,5 @@
+本文整合了sobereva在其个人博客http://sobereva.com/ 中的五篇文章文章，形成了一个计算电子结构动画的完整工作流程。
+
 ## 一. [计算IRC](http://sobereva.com/400)
 
 > 软件：
